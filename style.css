@@ -46,7 +46,7 @@ width: 4rem;
 .menu ul li a{
     text-decoration: none;
     color: aliceblue;
-    margin: 1rem;
+    margin: 0rem;
     align-items: center;
  
 }.menu ul li{
